@@ -1,6 +1,6 @@
-# Word2vec livros Harry Potter em Português
+# Word2vec treinado com livros Harry Potter em Português
 
-Neste reposirório, vamos treinar um modelo Word2Vec CBOW com livros da série Harry Potter, da autora britânica J. K. Rowling.
+Neste repositório, vamos treinar um modelo **Word2Vec CBOW** com livros da série Harry Potter, da autora britânica J. K. Rowling.
 
 ![Nuvem de palavras](img/nuvem-palavra7.jpg)
 
