@@ -1,5 +1,7 @@
 # Word2vec treinado com livros Harry Potter em Português
 
+<a href="https://www.buymeacoffee.com/lisaterumi"><img src="https://github.com/lisaterumi/lisaterumi/blob/main/bymeacoffe_link.png" alt="By me a coffe"/></a>
+
 Neste repositório, vamos treinar um modelo **Word2Vec CBOW** com livros da série Harry Potter, da autora britânica J. K. Rowling.
 
 ![Nuvem de palavras](img/nuvem-palavra7.jpg)
